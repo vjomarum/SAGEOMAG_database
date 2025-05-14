@@ -9,5 +9,5 @@ This repository contains:
 * `SAGEOMAG_database.xlsx`: the complete SAGEOMAG database in Excel format.
 * `SAGEOMAG_read_and_plot.ipynb`: a Python routine (written in Jupyter Notebook) with some examples to filter and visualize the data comprised in the SAGEOMAG database.
 
-## Example plots
-
+## Contact
+If you have any problems with downloading, viewing, applying filters or plotting figures related to the SAGEOMAG database do not hesitate to write to me: marum.vjo@gmail.com.
