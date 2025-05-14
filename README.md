@@ -10,4 +10,4 @@ This repository contains:
 * `SAGEOMAG_read_and_plot.ipynb`: a Python routine (written in Jupyter Notebook) with some examples to filter and visualize the data comprised in the SAGEOMAG database.
 
 ## Contact
-If you have any problems with downloading, viewing, applying filters or plotting figures related to the SAGEOMAG database do not hesitate to contact: marum.vjo@gmail.com.
+If you have any problems with downloading, viewing, applying filters or plotting figures related to the SAGEOMAG database do not hesitate to contact us: marum.vjo@gmail.com.
