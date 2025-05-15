@@ -28,4 +28,4 @@ This repository contains:
 * `SARIC-C_filters_shorter_lambda1000.txt`: SARIC.C from Figure 9d.
 
 ## Contact
-If you have any problems with downloading, viewing, applying filters or plotting figures related to the SAGEOMAG database, please do not hesitate to contact us: marum.vjo@gmail.com.
+If you have any problems with downloading, viewing, applying filters or plotting figures related to the SAGEOMAG database, please do not hesitate to contact me: marum.vjo@gmail.com.
