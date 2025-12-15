@@ -6,8 +6,8 @@ For a more detailed description, statistics and application of the SAGEOMAG data
 
 ## Contents
 This repository contains:
-* `SAGEOMAG_database.xlsx`: the complete SAGEOMAG database in Excel format.
-* `SAGEOMAG_read_and_plot.ipynb`: a Python routine (written in Jupyter Notebook) with some examples to filter and visualize the data comprised in the SAGEOMAG database.
+* `SAGEOMAG_database_v1.xlsx`: the complete SAGEOMAG database in Excel format.
+* `SAGEOMAG_v1_read_and_plot.ipynb`: a Python routine (written in Jupyter Notebook) with some examples to filter and visualize the data comprised in the SAGEOMAG database.
 * `SARIC-A_no_filter.txt`: SARIC.A from Figure 7a.
 * `SARIC-A_F1.txt`: SARIC.A from Figure 7b.
 * `SARIC-A_F2.txt`: SARIC.A from Figure 7c.
